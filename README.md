@@ -44,8 +44,10 @@ Base Tables (aisles, departments, products, orders, order_products)
 (Optional) Dimensional Tables & Fact Table
 ↓
 Analytics & BI Queries
+```
 
 ## 📁 Project Structure
+
 ```bash
 instacart/
 │
@@ -123,3 +125,4 @@ LIMIT 10;
 - Structuring SQL projects for GitHub & production readiness
 
 - Writing safe SQL scripts without exposing credentials
+
